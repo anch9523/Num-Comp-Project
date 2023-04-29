@@ -1,2 +1,5 @@
 example/data/text8.bin
 example/.ipynb_checkpoints
+.DS_Store
+example/.DS_Store
+~$experiment_results.xlsx
